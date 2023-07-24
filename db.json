@@ -1,0 +1,16 @@
+{
+    [
+        {
+          "cityName": "Ettlingen",
+          "cityId": 1,
+          "totalCases": 22469,
+          "activeCases": 22
+        },
+        {
+          "cityName": "Durmersheim",
+          "cityId": 2,
+          "totalCases": 17267,
+          "activeCases": 14
+        }
+      ]
+}
