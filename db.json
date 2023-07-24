@@ -1,16 +1,4167 @@
 {
     "city": [
+      {
+        "cityName": "Ettlingen",
+        "cityId": 1,
+        "totalCases": 22469,
+        "activeCases": 22
+      },
+      {
+        "cityName": "Durmersheim",
+        "cityId": 2,
+        "totalCases": 17267,
+        "activeCases": 14
+      },
+      {
+        "cityName": "Bruchsal",
+        "cityId": 3,
+        "totalCases": 22187,
+        "activeCases": 5
+      },
+      {
+        "cityName": "Germersheim",
+        "cityId": 4,
+        "totalCases": 29891,
+        "activeCases": 11
+      },
+      {
+        "cityName": "Wörth",
+        "cityId": 5,
+        "totalCases": 11712,
+        "activeCases": 7
+      }
+    ],
+    "cityId1" :[
         {
-            "cityName": "Ettlingen",
-            "cityId": 1,
-            "totalCases": 22469,
-            "activeCases": 22
+         "date": "2021-01-01",
+          "totalCases": 413,
+          "activeCases": 109
         },
         {
-            "cityName": "Durmersheim",
-            "cityId": 2,
-            "totalCases": 17267,
-            "activeCases": 14
+         "date": "2021-01-02",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-01-03",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-01-04",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-01-05",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-01-06",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-01-07",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-01-08",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-01-09",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-01-10",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-01-11",
+          "totalCases": 501,
+          "activeCases": 106
+        },
+        {
+         "date": "2021-01-12",
+          "totalCases": 502,
+          "activeCases": 97
+        },
+        {
+         "date": "2021-01-13",
+          "totalCases": 506,
+          "activeCases": 99
+        },
+        {
+         "date": "2021-01-14",
+          "totalCases": 508,
+          "activeCases": 100
+        },
+        {
+         "date": "2021-01-15",
+          "totalCases": 511,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-01-16",
+          "totalCases": 514,
+          "activeCases": 93
+        },
+        {
+         "date": "2021-01-17",
+          "totalCases": 514,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-01-18",
+          "totalCases": 514,
+          "activeCases": 119
+        },
+        {
+         "date": "2021-01-19",
+          "totalCases": 514,
+          "activeCases": 126
+        },
+        {
+         "date": "2021-01-20",
+          "totalCases": 515,
+          "activeCases": 137
+        },
+        {
+         "date": "2021-01-21",
+          "totalCases": 516,
+          "activeCases": 131
+        },
+
+        {
+         "date": "2021-01-22",
+          "totalCases": 521,
+          "activeCases": 121
+        },
+        {
+         "date": "2021-01-23",
+          "totalCases": 521,
+          "activeCases": 130
+        },
+        {
+         "date": "2021-01-24",
+          "totalCases": 522,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-01-25",
+          "totalCases": 526,
+          "activeCases": 139
+        },
+        {
+         "date": "2021-01-26",
+          "totalCases": 530,
+          "activeCases": 133
+        },
+        {
+         "date": "2021-01-27",
+          "totalCases": 532,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-01-28",
+          "totalCases": 534,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-01-29",
+          "totalCases": 535,
+          "activeCases": 128
+        },
+        {
+         "date": "2021-01-30",
+          "totalCases": 537,
+          "activeCases": 133
+        },
+        {
+         "date": "2021-01-31",
+          "totalCases": 539,
+          "activeCases": 139
+        },
+        {
+         "date": "2021-02-01",
+          "totalCases": 413,
+          "activeCases": 109
+        },
+        {
+         "date": "2021-02-02",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-02-03",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-02-04",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-02-05",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-02-06",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-02-07",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-02-08",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-02-09",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-02-10",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-02-11",
+          "totalCases": 501,
+          "activeCases": 106
+        },
+        {
+         "date": "2021-02-12",
+          "totalCases": 502,
+          "activeCases": 97
+        },
+        {
+         "date": "2021-02-13",
+          "totalCases": 506,
+          "activeCases": 99
+        },
+        {
+         "date": "2021-02-14",
+          "totalCases": 508,
+          "activeCases": 100
+        },
+        {
+         "date": "2021-02-15",
+          "totalCases": 511,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-02-16",
+          "totalCases": 514,
+          "activeCases": 93
+        },
+        {
+         "date": "2021-02-17",
+          "totalCases": 514,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-02-18",
+          "totalCases": 514,
+          "activeCases": 119
+        },
+        {
+         "date": "2021-02-19",
+          "totalCases": 514,
+          "activeCases": 126
+        },
+        {
+         "date": "2021-02-20",
+          "totalCases": 515,
+          "activeCases": 137
+        },
+        {
+         "date": "2021-02-21",
+          "totalCases": 516,
+          "activeCases": 131
+        },
+
+        {
+         "date": "2021-02-22",
+          "totalCases": 521,
+          "activeCases": 121
+        },
+        {
+         "date": "2021-02-23",
+          "totalCases": 521,
+          "activeCases": 130
+        },
+        {
+         "date": "2021-02-24",
+          "totalCases": 522,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-02-25",
+          "totalCases": 526,
+          "activeCases": 139
+        },
+        {
+         "date": "2021-02-26",
+          "totalCases": 530,
+          "activeCases": 133
+        },
+        {
+         "date": "2021-02-27",
+          "totalCases": 532,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-02-28",
+          "totalCases": 534,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-03-01",
+          "totalCases": 413,
+          "activeCases": 109
+        },
+        {
+         "date": "2021-03-02",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-03-03",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-03-04",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-03-05",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-03-06",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-03-07",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-03-08",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-03-09",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-03-10",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-03-11",
+          "totalCases": 501,
+          "activeCases": 106
+        },
+        {
+         "date": "2021-03-12",
+          "totalCases": 502,
+          "activeCases": 97
+        },
+        {
+         "date": "2021-03-13",
+          "totalCases": 506,
+          "activeCases": 99
+        },
+        {
+         "date": "2021-03-14",
+          "totalCases": 508,
+          "activeCases": 100
+        },
+        {
+         "date": "2021-03-15",
+          "totalCases": 511,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-03-16",
+          "totalCases": 514,
+          "activeCases": 93
+        },
+        {
+         "date": "2021-03-17",
+          "totalCases": 514,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-03-18",
+          "totalCases": 514,
+          "activeCases": 119
+        },
+        {
+         "date": "2021-03-19",
+          "totalCases": 514,
+          "activeCases": 126
+        },
+        {
+         "date": "2021-03-20",
+          "totalCases": 515,
+          "activeCases": 137
+        },
+        {
+         "date": "2021-03-21",
+          "totalCases": 516,
+          "activeCases": 131
+        },
+
+        {
+         "date": "2021-03-22",
+          "totalCases": 521,
+          "activeCases": 121
+        },
+        {
+         "date": "2021-03-23",
+          "totalCases": 521,
+          "activeCases": 130
+        },
+        {
+         "date": "2021-03-24",
+          "totalCases": 522,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-03-25",
+          "totalCases": 526,
+          "activeCases": 139
+        },
+        {
+         "date": "2021-03-26",
+          "totalCases": 530,
+          "activeCases": 133
+        },
+        {
+         "date": "2021-03-27",
+          "totalCases": 532,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-03-28",
+          "totalCases": 534,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-03-29",
+          "totalCases": 535,
+          "activeCases": 128
+        },
+        {
+         "date": "2021-03-30",
+          "totalCases": 537,
+          "activeCases": 133
+        },
+        {
+         "date": "2021-03-31",
+          "totalCases": 539,
+          "activeCases": 139
+        },
+        {
+         "date": "2021-04-01",
+          "totalCases": 413,
+          "activeCases": 109
+        },
+        {
+         "date": "2021-04-02",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-04-03",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-04-04",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-04-05",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-04-06",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-04-07",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-04-08",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-04-09",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-04-10",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-04-11",
+          "totalCases": 501,
+          "activeCases": 106
+        },
+        {
+         "date": "2021-04-12",
+          "totalCases": 502,
+          "activeCases": 97
+        },
+        {
+         "date": "2021-04-13",
+          "totalCases": 506,
+          "activeCases": 99
+        },
+        {
+         "date": "2021-04-14",
+          "totalCases": 508,
+          "activeCases": 100
+        },
+        {
+         "date": "2021-04-15",
+          "totalCases": 511,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-04-16",
+          "totalCases": 514,
+          "activeCases": 93
+        },
+        {
+         "date": "2021-04-17",
+          "totalCases": 514,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-04-18",
+          "totalCases": 514,
+          "activeCases": 119
+        },
+        {
+         "date": "2021-04-19",
+          "totalCases": 514,
+          "activeCases": 126
+        },
+        {
+         "date": "2021-04-20",
+          "totalCases": 515,
+          "activeCases": 137
+        },
+        {
+         "date": "2021-04-21",
+          "totalCases": 516,
+          "activeCases": 131
+        },
+
+        {
+         "date": "2021-04-22",
+          "totalCases": 521,
+          "activeCases": 121
+        },
+        {
+         "date": "2021-04-23",
+          "totalCases": 521,
+          "activeCases": 130
+        },
+        {
+         "date": "2021-04-24",
+          "totalCases": 522,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-04-25",
+          "totalCases": 526,
+          "activeCases": 139
+        },
+        {
+         "date": "2021-04-26",
+          "totalCases": 530,
+          "activeCases": 133
+        },
+        {
+         "date": "2021-04-27",
+          "totalCases": 532,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-04-28",
+          "totalCases": 534,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-04-29",
+          "totalCases": 535,
+          "activeCases": 128
+        },
+        {
+         "date": "2021-04-30",
+          "totalCases": 537,
+          "activeCases": 133
+        },
+        {
+         "date": "2021-05-01",
+          "totalCases": 413,
+          "activeCases": 109
+        },
+        {
+         "date": "2021-05-02",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-05-03",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-05-04",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-05-05",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-05-06",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-05-07",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-05-08",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-05-09",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-05-10",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-05-11",
+          "totalCases": 501,
+          "activeCases": 106
+        },
+        {
+         "date": "2021-05-12",
+          "totalCases": 502,
+          "activeCases": 97
+        },
+        {
+         "date": "2021-05-13",
+          "totalCases": 506,
+          "activeCases": 99
+        },
+        {
+         "date": "2021-05-14",
+          "totalCases": 508,
+          "activeCases": 100
+        },
+        {
+         "date": "2021-05-15",
+          "totalCases": 511,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-05-16",
+          "totalCases": 514,
+          "activeCases": 93
+        },
+        {
+         "date": "2021-05-17",
+          "totalCases": 514,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-05-18",
+          "totalCases": 514,
+          "activeCases": 119
+        },
+        {
+         "date": "2021-05-19",
+          "totalCases": 514,
+          "activeCases": 126
+        },
+        {
+         "date": "2021-05-20",
+          "totalCases": 515,
+          "activeCases": 137
+        },
+        {
+         "date": "2021-05-21",
+          "totalCases": 516,
+          "activeCases": 131
+        },
+
+        {
+         "date": "2021-05-22",
+          "totalCases": 521,
+          "activeCases": 121
+        },
+        {
+         "date": "2021-05-23",
+          "totalCases": 521,
+          "activeCases": 130
+        },
+        {
+         "date": "2021-05-24",
+          "totalCases": 522,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-05-25",
+          "totalCases": 526,
+          "activeCases": 139
+        },
+        {
+         "date": "2021-05-26",
+          "totalCases": 530,
+          "activeCases": 133
+        },
+        {
+         "date": "2021-05-27",
+          "totalCases": 532,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-05-28",
+          "totalCases": 534,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-05-29",
+          "totalCases": 535,
+          "activeCases": 128
+        },
+        {
+         "date": "2021-05-30",
+          "totalCases": 537,
+          "activeCases": 133
+        },
+        {
+         "date": "2021-05-31",
+          "totalCases": 539,
+          "activeCases": 139
+        },
+        {
+         "date": "2021-06-01",
+          "totalCases": 413,
+          "activeCases": 109
+        },
+        {
+         "date": "2021-06-02",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-06-03",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-06-04",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-06-05",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-06-06",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-06-07",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-06-08",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-06-09",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-06-10",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-06-11",
+          "totalCases": 501,
+          "activeCases": 106
+        },
+        {
+         "date": "2021-06-12",
+          "totalCases": 502,
+          "activeCases": 97
+        },
+        {
+         "date": "2021-06-13",
+          "totalCases": 506,
+          "activeCases": 99
+        },
+        {
+         "date": "2021-06-14",
+          "totalCases": 508,
+          "activeCases": 100
+        },
+        {
+         "date": "2021-06-15",
+          "totalCases": 511,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-06-16",
+          "totalCases": 514,
+          "activeCases": 93
+        },
+        {
+         "date": "2021-06-17",
+          "totalCases": 514,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-06-18",
+          "totalCases": 514,
+          "activeCases": 119
+        },
+        {
+         "date": "2021-06-19",
+          "totalCases": 514,
+          "activeCases": 126
+        },
+        {
+         "date": "2021-06-20",
+          "totalCases": 515,
+          "activeCases": 137
+        },
+        {
+         "date": "2021-06-21",
+          "totalCases": 516,
+          "activeCases": 131
+        },
+
+        {
+         "date": "2021-06-22",
+          "totalCases": 521,
+          "activeCases": 121
+        },
+        {
+         "date": "2021-06-23",
+          "totalCases": 521,
+          "activeCases": 130
+        },
+        {
+         "date": "2021-06-24",
+          "totalCases": 522,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-06-25",
+          "totalCases": 526,
+          "activeCases": 139
+        },
+        {
+         "date": "2021-06-26",
+          "totalCases": 530,
+          "activeCases": 133
+        },
+        {
+         "date": "2021-06-27",
+          "totalCases": 532,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-06-28",
+          "totalCases": 534,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-06-29",
+          "totalCases": 535,
+          "activeCases": 128
+        },
+        {
+         "date": "2021-06-30",
+          "totalCases": 537,
+          "activeCases": 133
+        },
+        {
+         "date": "2021-07-01",
+          "totalCases": 413,
+          "activeCases": 109
+        },
+        {
+         "date": "2021-07-02",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-07-03",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-07-04",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-07-05",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-07-06",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-07-07",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-07-08",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-07-09",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-07-10",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-07-11",
+          "totalCases": 501,
+          "activeCases": 106
+        },
+        {
+         "date": "2021-07-12",
+          "totalCases": 502,
+          "activeCases": 97
+        },
+        {
+         "date": "2021-07-13",
+          "totalCases": 506,
+          "activeCases": 99
+        },
+        {
+         "date": "2021-07-14",
+          "totalCases": 508,
+          "activeCases": 100
+        },
+        {
+         "date": "2021-07-15",
+          "totalCases": 511,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-07-16",
+          "totalCases": 514,
+          "activeCases": 93
+        },
+        {
+         "date": "2021-07-17",
+          "totalCases": 514,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-07-18",
+          "totalCases": 514,
+          "activeCases": 119
+        },
+        {
+         "date": "2021-07-19",
+          "totalCases": 514,
+          "activeCases": 126
+        },
+        {
+         "date": "2021-07-20",
+          "totalCases": 515,
+          "activeCases": 137
+        },
+        {
+         "date": "2021-07-21",
+          "totalCases": 516,
+          "activeCases": 131
+        },
+
+        {
+         "date": "2021-07-22",
+          "totalCases": 521,
+          "activeCases": 121
+        },
+        {
+         "date": "2021-07-23",
+          "totalCases": 521,
+          "activeCases": 130
+        },
+        {
+         "date": "2021-07-24",
+          "totalCases": 522,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-07-25",
+          "totalCases": 526,
+          "activeCases": 139
+        },
+        {
+         "date": "2021-07-26",
+          "totalCases": 530,
+          "activeCases": 133
+        },
+        {
+         "date": "2021-07-27",
+          "totalCases": 532,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-07-28",
+          "totalCases": 534,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-07-29",
+          "totalCases": 535,
+          "activeCases": 128
+        },
+        {
+         "date": "2021-07-30",
+          "totalCases": 537,
+          "activeCases": 133
+        },
+        {
+         "date": "2021-07-31",
+          "totalCases": 539,
+          "activeCases": 139
+        },
+        {
+         "date": "2021-08-01",
+          "totalCases": 413,
+          "activeCases": 109
+        },
+        {
+         "date": "2021-08-02",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-08-03",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-08-04",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-08-05",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-08-06",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-08-07",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-08-08",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-08-09",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-08-10",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-08-11",
+          "totalCases": 501,
+          "activeCases": 106
+        },
+        {
+         "date": "2021-08-12",
+          "totalCases": 502,
+          "activeCases": 97
+        },
+        {
+         "date": "2021-08-13",
+          "totalCases": 506,
+          "activeCases": 99
+        },
+        {
+         "date": "2021-08-14",
+          "totalCases": 508,
+          "activeCases": 100
+        },
+        {
+         "date": "2021-08-15",
+          "totalCases": 511,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-08-16",
+          "totalCases": 514,
+          "activeCases": 93
+        },
+        {
+         "date": "2021-08-17",
+          "totalCases": 514,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-08-18",
+          "totalCases": 514,
+          "activeCases": 119
+        },
+        {
+         "date": "2021-08-19",
+          "totalCases": 514,
+          "activeCases": 126
+        },
+        {
+         "date": "2021-08-20",
+          "totalCases": 515,
+          "activeCases": 137
+        },
+        {
+         "date": "2021-08-21",
+          "totalCases": 516,
+          "activeCases": 131
+        },
+
+        {
+         "date": "2021-08-22",
+          "totalCases": 521,
+          "activeCases": 121
+        },
+        {
+         "date": "2021-08-23",
+          "totalCases": 521,
+          "activeCases": 130
+        },
+        {
+         "date": "2021-08-24",
+          "totalCases": 522,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-08-25",
+          "totalCases": 526,
+          "activeCases": 139
+        },
+        {
+         "date": "2021-08-26",
+          "totalCases": 530,
+          "activeCases": 133
+        },
+        {
+         "date": "2021-08-27",
+          "totalCases": 532,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-08-28",
+          "totalCases": 534,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-08-29",
+          "totalCases": 535,
+          "activeCases": 128
+        },
+        {
+         "date": "2021-08-30",
+          "totalCases": 537,
+          "activeCases": 133
+        },
+        {
+         "date": "2021-08-31",
+          "totalCases": 539,
+          "activeCases": 139
+        },
+        {
+         "date": "2021-09-01",
+          "totalCases": 413,
+          "activeCases": 109
+        },
+        {
+         "date": "2021-09-02",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-09-03",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-09-04",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-09-05",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-09-06",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-09-07",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-09-08",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-09-09",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-09-10",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-09-11",
+          "totalCases": 501,
+          "activeCases": 106
+        },
+        {
+         "date": "2021-09-12",
+          "totalCases": 502,
+          "activeCases": 97
+        },
+        {
+         "date": "2021-09-13",
+          "totalCases": 506,
+          "activeCases": 99
+        },
+        {
+         "date": "2021-09-14",
+          "totalCases": 508,
+          "activeCases": 100
+        },
+        {
+         "date": "2021-09-15",
+          "totalCases": 511,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-09-16",
+          "totalCases": 514,
+          "activeCases": 93
+        },
+        {
+         "date": "2021-09-17",
+          "totalCases": 514,
+          "activeCases": 110
+        },
+        {
+         "date": "2021-09-18",
+          "totalCases": 514,
+          "activeCases": 119
+        },
+        {
+         "date": "2021-09-19",
+          "totalCases": 514,
+          "activeCases": 126
+        },
+        {
+         "date": "2021-09-20",
+          "totalCases": 515,
+          "activeCases": 137
+        },
+        {
+         "date": "2021-09-21",
+          "totalCases": 516,
+          "activeCases": 131
+        },
+
+        {
+         "date": "2021-09-22",
+          "totalCases": 521,
+          "activeCases": 121
+        },
+        {
+         "date": "2021-09-23",
+          "totalCases": 521,
+          "activeCases": 130
+        },
+        {
+         "date": "2021-09-24",
+          "totalCases": 522,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-09-25",
+          "totalCases": 526,
+          "activeCases": 139
+        },
+        {
+         "date": "2021-09-26",
+          "totalCases": 530,
+          "activeCases": 133
+        },
+        {
+         "date": "2021-09-27",
+          "totalCases": 532,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-09-28",
+          "totalCases": 534,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-09-29",
+          "totalCases": 535,
+          "activeCases": 128
+        },
+        {
+         "date": "2021-09-30",
+          "totalCases": 537,
+          "activeCases": 133
+        },
+        {
+         "date": "2021-10-01",
+          "totalCases": 413,
+          "activeCases": 109
+        },
+        {
+         "date": "2021-10-02",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-10-03",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-10-04",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-10-05",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-10-06",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-10-07",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-10-08",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-10-09",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-10-10",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-10-11",
+          "totalCases": 413,
+          "activeCases": 109
+        },
+        {
+         "date": "2021-10-12",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-10-13",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-10-14",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-10-15",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-10-16",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-10-17",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-10-18",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-10-19",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-10-20",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-10-21",
+          "totalCases": 413,
+          "activeCases": 109
+        },
+        {
+         "date": "2021-10-22",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-10-23",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-10-24",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-10-25",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-10-26",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-10-27",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-10-28",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-10-29",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-10-30",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-10-31",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-11-01",
+          "totalCases": 413,
+          "activeCases": 109
+        },
+        {
+         "date": "2021-11-02",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-11-03",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-11-04",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-11-05",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-11-06",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-11-07",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-11-08",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-11-09",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-11-10",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-11-11",
+          "totalCases": 413,
+          "activeCases": 109
+        },
+        {
+         "date": "2021-11-12",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-11-13",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-11-14",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-11-15",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-11-16",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-11-17",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-11-18",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-11-19",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-11-20",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-11-21",
+          "totalCases": 413,
+          "activeCases": 109
+        },
+        {
+         "date": "2021-11-22",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-11-23",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-11-24",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-11-25",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-11-26",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-11-27",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-11-28",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-11-29",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-11-30",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+
+        {
+         "date": "2021-12-01",
+          "totalCases": 413,
+          "activeCases": 109
+        },
+        {
+         "date": "2021-12-02",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-12-03",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-12-04",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-12-05",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-12-06",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-12-07",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-12-08",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-12-09",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-12-10",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-12-11",
+          "totalCases": 413,
+          "activeCases": 109
+        },
+        {
+         "date": "2021-12-12",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-12-13",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-12-14",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-12-15",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-12-16",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-12-17",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-12-18",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-12-19",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-12-20",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-12-21",
+          "totalCases": 413,
+          "activeCases": 109
+        },
+        {
+         "date": "2021-12-22",
+          "totalCases": 416,
+          "activeCases": 92
+        },
+        {
+         "date": "2021-12-23",
+          "totalCases": 418,
+          "activeCases": 131
+        },
+        {
+         "date": "2021-12-24",
+          "totalCases": 429,
+          "activeCases": 136
+        },
+        {
+         "date": "2021-12-25",
+          "totalCases": 488,
+          "activeCases": 55
+        },
+        {
+         "date": "2021-12-26",
+          "totalCases": 497,
+          "activeCases": 132
+        },
+        {
+         "date": "2021-12-27",
+          "totalCases": 498,
+          "activeCases": 73
+        },
+        {
+         "date": "2021-12-28",
+          "totalCases": 500,
+          "activeCases": 135
+        },
+        {
+         "date": "2021-12-29",
+          "totalCases": 500,
+          "activeCases": 85
+        },
+        {
+         "date": "2021-12-30",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2021-12-31",
+          "totalCases": 501,
+          "activeCases": 96
+        },
+        {
+         "date": "2022-01-01",
+          "totalCases": 813,
+          "activeCases": 209
+        },
+        {
+         "date": "2022-01-02",
+          "totalCases": 816,
+          "activeCases": 192
+        },
+        {
+         "date": "2022-01-03",
+          "totalCases": 818,
+          "activeCases": 131
+        },
+        {
+         "date": "2022-01-04",
+          "totalCases": 829,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-01-05",
+          "totalCases": 888,
+          "activeCases": 155
+        },
+        {
+         "date": "2022-01-06",
+          "totalCases": 897,
+          "activeCases": 132
+        },
+        {
+         "date": "2022-01-07",
+          "totalCases": 898,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-01-08",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-01-09",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-01-10",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-01-11",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-01-12",
+          "totalCases": 902,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-01-13",
+          "totalCases": 906,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-01-14",
+          "totalCases": 908,
+          "activeCases": 130
+        },
+        {
+         "date": "2022-01-15",
+          "totalCases": 911,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-01-16",
+          "totalCases": 914,
+          "activeCases": 143
+        },
+        {
+         "date": "2022-01-17",
+          "totalCases": 914,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-01-18",
+          "totalCases": 914,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-01-19",
+          "totalCases": 914,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-01-20",
+          "totalCases": 915,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-01-21",
+          "totalCases": 916,
+          "activeCases": 139
+        },
+
+        {
+         "date": "2022-01-22",
+          "totalCases": 921,
+          "activeCases": 141
+        },
+        {
+         "date": "2022-01-23",
+          "totalCases": 921,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-01-24",
+          "totalCases": 922,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-01-25",
+          "totalCases": 926,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-01-26",
+          "totalCases": 930,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-01-27",
+          "totalCases": 932,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-01-28",
+          "totalCases": 934,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-01-29",
+          "totalCases": 935,
+          "activeCases": 128
+        },
+        {
+         "date": "2022-01-30",
+          "totalCases": 937,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-01-31",
+          "totalCases": 939,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-02-01",
+          "totalCases": 940,
+          "activeCases": 123
+        },
+        {
+         "date": "2022-02-02",
+          "totalCases": 944,
+          "activeCases": 132
+        },
+        {
+         "date": "2022-02-03",
+          "totalCases": 948,
+          "activeCases": 131
+        },
+        {
+         "date": "2022-02-04",
+          "totalCases": 951,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-02-05",
+          "totalCases": 952,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-02-06",
+          "totalCases": 997,
+          "activeCases": 172
+        },
+        {
+         "date": "2022-02-07",
+          "totalCases": 1000,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-02-08",
+          "totalCases": 1000,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-02-09",
+          "totalCases": 1000,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-02-10",
+          "totalCases": 1001,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-02-11",
+          "totalCases": 1001,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-02-12",
+          "totalCases": 1002,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-02-13",
+          "totalCases": 1006,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-02-14",
+          "totalCases": 1008,
+          "activeCases": 130
+        },
+        {
+         "date": "2022-02-15",
+          "totalCases": 1111,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-02-16",
+          "totalCases": 1114,
+          "activeCases": 143
+        },
+        {
+         "date": "2022-02-17",
+          "totalCases": 1114,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-02-18",
+          "totalCases": 1114,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-02-19",
+          "totalCases": 1114,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-02-20",
+          "totalCases": 1115,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-02-21",
+          "totalCases": 1116,
+          "activeCases": 139
+        },
+
+        {
+         "date": "2022-02-22",
+          "totalCases": 1121,
+          "activeCases": 141
+        },
+        {
+         "date": "2022-02-23",
+          "totalCases": 1121,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-02-24",
+          "totalCases": 1122,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-02-25",
+          "totalCases": 1126,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-02-26",
+          "totalCases": 1130,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-02-27",
+          "totalCases": 1132,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-02-28",
+          "totalCases": 1134,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-03-01",
+          "totalCases": 1133,
+          "activeCases": 209
+        },
+        {
+         "date": "2022-03-02",
+          "totalCases": 1135,
+          "activeCases": 192
+        },
+        {
+         "date": "2022-03-03",
+          "totalCases": 1218,
+          "activeCases": 131
+        },
+        {
+         "date": "2022-03-04",
+          "totalCases": 1229,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-03-05",
+          "totalCases": 1288,
+          "activeCases": 155
+        },
+        {
+         "date": "2022-03-06",
+          "totalCases": 1297,
+          "activeCases": 132
+        },
+        {
+         "date": "2022-03-07",
+          "totalCases": 1298,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-03-08",
+          "totalCases": 1299,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-03-09",
+          "totalCases": 1300,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-03-10",
+          "totalCases": 1301,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-03-11",
+          "totalCases": 1331,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-03-12",
+          "totalCases": 1382,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-03-13",
+          "totalCases": 1386,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-03-14",
+          "totalCases": 1398,
+          "activeCases": 130
+        },
+        {
+         "date": "2022-03-15",
+          "totalCases": 1399,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-03-16",
+          "totalCases": 1400,
+          "activeCases": 143
+        },
+        {
+         "date": "2022-03-17",
+          "totalCases": 914,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-03-18",
+          "totalCases": 914,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-03-19",
+          "totalCases": 914,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-03-20",
+          "totalCases": 915,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-03-21",
+          "totalCases": 916,
+          "activeCases": 139
+        },
+
+        {
+         "date": "2022-03-22",
+          "totalCases": 921,
+          "activeCases": 141
+        },
+        {
+         "date": "2022-03-23",
+          "totalCases": 921,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-03-24",
+          "totalCases": 922,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-03-25",
+          "totalCases": 926,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-03-26",
+          "totalCases": 930,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-03-27",
+          "totalCases": 932,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-03-28",
+          "totalCases": 934,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-03-29",
+          "totalCases": 935,
+          "activeCases": 128
+        },
+        {
+         "date": "2022-03-30",
+          "totalCases": 937,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-03-31",
+          "totalCases": 939,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-04-01",
+          "totalCases": 813,
+          "activeCases": 209
+        },
+        {
+         "date": "2022-04-02",
+          "totalCases": 816,
+          "activeCases": 192
+        },
+        {
+         "date": "2022-04-03",
+          "totalCases": 818,
+          "activeCases": 131
+        },
+        {
+         "date": "2022-04-04",
+          "totalCases": 829,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-04-05",
+          "totalCases": 888,
+          "activeCases": 155
+        },
+        {
+         "date": "2022-04-06",
+          "totalCases": 897,
+          "activeCases": 132
+        },
+        {
+         "date": "2022-04-07",
+          "totalCases": 898,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-04-08",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-04-09",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-04-10",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-04-11",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-04-12",
+          "totalCases": 902,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-04-13",
+          "totalCases": 906,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-04-14",
+          "totalCases": 908,
+          "activeCases": 130
+        },
+        {
+         "date": "2022-04-15",
+          "totalCases": 911,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-04-16",
+          "totalCases": 914,
+          "activeCases": 143
+        },
+        {
+         "date": "2022-04-17",
+          "totalCases": 914,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-04-18",
+          "totalCases": 914,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-04-19",
+          "totalCases": 914,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-04-20",
+          "totalCases": 915,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-04-21",
+          "totalCases": 916,
+          "activeCases": 139
+        },
+
+        {
+         "date": "2022-04-22",
+          "totalCases": 921,
+          "activeCases": 141
+        },
+        {
+         "date": "2022-04-23",
+          "totalCases": 921,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-04-24",
+          "totalCases": 922,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-04-25",
+          "totalCases": 926,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-04-26",
+          "totalCases": 930,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-04-27",
+          "totalCases": 932,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-04-28",
+          "totalCases": 934,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-04-29",
+          "totalCases": 935,
+          "activeCases": 128
+        },
+        {
+         "date": "2022-04-30",
+          "totalCases": 937,
+          "activeCases": 133
+        },
+
+        {
+         "date": "2022-05-01",
+          "totalCases": 813,
+          "activeCases": 209
+        },
+        {
+         "date": "2022-05-02",
+          "totalCases": 816,
+          "activeCases": 192
+        },
+        {
+         "date": "2022-05-03",
+          "totalCases": 818,
+          "activeCases": 131
+        },
+        {
+         "date": "2022-05-04",
+          "totalCases": 829,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-05-05",
+          "totalCases": 888,
+          "activeCases": 155
+        },
+        {
+         "date": "2022-05-06",
+          "totalCases": 897,
+          "activeCases": 132
+        },
+        {
+         "date": "2022-05-07",
+          "totalCases": 898,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-05-08",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-05-09",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-05-10",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-05-11",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-05-12",
+          "totalCases": 902,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-05-13",
+          "totalCases": 906,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-05-14",
+          "totalCases": 908,
+          "activeCases": 130
+        },
+        {
+         "date": "2022-05-15",
+          "totalCases": 911,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-05-16",
+          "totalCases": 914,
+          "activeCases": 143
+        },
+        {
+         "date": "2022-05-17",
+          "totalCases": 914,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-05-18",
+          "totalCases": 914,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-05-19",
+          "totalCases": 914,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-05-20",
+          "totalCases": 915,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-05-21",
+          "totalCases": 916,
+          "activeCases": 139
+        },
+
+        {
+         "date": "2022-05-22",
+          "totalCases": 921,
+          "activeCases": 141
+        },
+        {
+         "date": "2022-05-23",
+          "totalCases": 921,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-05-24",
+          "totalCases": 922,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-05-25",
+          "totalCases": 926,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-05-26",
+          "totalCases": 930,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-05-27",
+          "totalCases": 932,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-05-28",
+          "totalCases": 934,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-05-29",
+          "totalCases": 935,
+          "activeCases": 128
+        },
+        {
+         "date": "2022-05-30",
+          "totalCases": 937,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-05-31",
+          "totalCases": 939,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-06-01",
+          "totalCases": 813,
+          "activeCases": 209
+        },
+        {
+         "date": "2022-06-02",
+          "totalCases": 816,
+          "activeCases": 192
+        },
+        {
+         "date": "2022-06-03",
+          "totalCases": 818,
+          "activeCases": 131
+        },
+        {
+         "date": "2022-06-04",
+          "totalCases": 829,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-06-05",
+          "totalCases": 888,
+          "activeCases": 155
+        },
+        {
+         "date": "2022-06-06",
+          "totalCases": 897,
+          "activeCases": 132
+        },
+        {
+         "date": "2022-06-07",
+          "totalCases": 898,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-06-08",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-06-09",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-06-10",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-06-11",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-06-12",
+          "totalCases": 902,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-06-13",
+          "totalCases": 906,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-06-14",
+          "totalCases": 908,
+          "activeCases": 130
+        },
+        {
+         "date": "2022-06-15",
+          "totalCases": 911,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-06-16",
+          "totalCases": 914,
+          "activeCases": 143
+        },
+        {
+         "date": "2022-06-17",
+          "totalCases": 914,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-06-18",
+          "totalCases": 914,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-06-19",
+          "totalCases": 914,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-06-20",
+          "totalCases": 915,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-06-21",
+          "totalCases": 916,
+          "activeCases": 139
+        },
+
+        {
+         "date": "2022-06-22",
+          "totalCases": 921,
+          "activeCases": 141
+        },
+        {
+         "date": "2022-06-23",
+          "totalCases": 921,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-06-24",
+          "totalCases": 922,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-06-25",
+          "totalCases": 926,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-06-26",
+          "totalCases": 930,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-06-27",
+          "totalCases": 932,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-06-28",
+          "totalCases": 934,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-06-29",
+          "totalCases": 935,
+          "activeCases": 128
+        },
+        {
+         "date": "2022-06-30",
+          "totalCases": 937,
+          "activeCases": 133
+        },
+
+        {
+         "date": "2022-07-01",
+          "totalCases": 813,
+          "activeCases": 209
+        },
+        {
+         "date": "2022-07-02",
+          "totalCases": 816,
+          "activeCases": 192
+        },
+        {
+         "date": "2022-07-03",
+          "totalCases": 818,
+          "activeCases": 131
+        },
+        {
+         "date": "2022-07-04",
+          "totalCases": 829,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-07-05",
+          "totalCases": 888,
+          "activeCases": 155
+        },
+        {
+         "date": "2022-07-06",
+          "totalCases": 897,
+          "activeCases": 132
+        },
+        {
+         "date": "2022-07-07",
+          "totalCases": 898,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-07-08",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-07-09",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-07-10",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-07-11",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-07-12",
+          "totalCases": 902,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-07-13",
+          "totalCases": 906,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-07-14",
+          "totalCases": 908,
+          "activeCases": 130
+        },
+        {
+         "date": "2022-07-15",
+          "totalCases": 911,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-07-16",
+          "totalCases": 914,
+          "activeCases": 143
+        },
+        {
+         "date": "2022-07-17",
+          "totalCases": 914,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-07-18",
+          "totalCases": 914,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-07-19",
+          "totalCases": 914,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-07-20",
+          "totalCases": 915,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-07-21",
+          "totalCases": 916,
+          "activeCases": 139
+        },
+
+        {
+         "date": "2022-07-22",
+          "totalCases": 921,
+          "activeCases": 141
+        },
+        {
+         "date": "2022-07-23",
+          "totalCases": 921,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-07-24",
+          "totalCases": 922,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-07-25",
+          "totalCases": 926,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-07-26",
+          "totalCases": 930,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-07-27",
+          "totalCases": 932,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-07-28",
+          "totalCases": 934,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-07-29",
+          "totalCases": 935,
+          "activeCases": 128
+        },
+        {
+         "date": "2022-07-30",
+          "totalCases": 937,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-07-31",
+          "totalCases": 939,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-08-01",
+          "totalCases": 813,
+          "activeCases": 209
+        },
+        {
+         "date": "2022-08-02",
+          "totalCases": 816,
+          "activeCases": 192
+        },
+        {
+         "date": "2022-08-03",
+          "totalCases": 818,
+          "activeCases": 131
+        },
+        {
+         "date": "2022-08-04",
+          "totalCases": 829,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-08-05",
+          "totalCases": 888,
+          "activeCases": 155
+        },
+        {
+         "date": "2022-08-06",
+          "totalCases": 897,
+          "activeCases": 132
+        },
+        {
+         "date": "2022-08-07",
+          "totalCases": 898,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-08-08",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-08-09",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-08-10",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-08-11",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-08-12",
+          "totalCases": 902,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-08-13",
+          "totalCases": 906,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-08-14",
+          "totalCases": 908,
+          "activeCases": 130
+        },
+        {
+         "date": "2022-08-15",
+          "totalCases": 911,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-08-16",
+          "totalCases": 914,
+          "activeCases": 143
+        },
+        {
+         "date": "2022-08-17",
+          "totalCases": 914,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-08-18",
+          "totalCases": 914,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-08-19",
+          "totalCases": 914,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-08-20",
+          "totalCases": 915,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-08-21",
+          "totalCases": 916,
+          "activeCases": 139
+        },
+
+        {
+         "date": "2022-08-22",
+          "totalCases": 921,
+          "activeCases": 141
+        },
+        {
+         "date": "2022-08-23",
+          "totalCases": 921,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-08-24",
+          "totalCases": 922,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-08-25",
+          "totalCases": 926,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-08-26",
+          "totalCases": 930,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-08-27",
+          "totalCases": 932,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-08-28",
+          "totalCases": 934,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-08-29",
+          "totalCases": 935,
+          "activeCases": 128
+        },
+        {
+         "date": "2022-08-30",
+          "totalCases": 937,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-08-31",
+          "totalCases": 939,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-09-01",
+          "totalCases": 813,
+          "activeCases": 209
+        },
+        {
+         "date": "2022-09-02",
+          "totalCases": 816,
+          "activeCases": 192
+        },
+        {
+         "date": "2022-09-03",
+          "totalCases": 818,
+          "activeCases": 131
+        },
+        {
+         "date": "2022-09-04",
+          "totalCases": 829,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-09-05",
+          "totalCases": 888,
+          "activeCases": 155
+        },
+        {
+         "date": "2022-09-06",
+          "totalCases": 897,
+          "activeCases": 132
+        },
+        {
+         "date": "2022-09-07",
+          "totalCases": 898,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-09-08",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-09-09",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-09-10",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-09-11",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-09-12",
+          "totalCases": 902,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-09-13",
+          "totalCases": 906,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-09-14",
+          "totalCases": 908,
+          "activeCases": 130
+        },
+        {
+         "date": "2022-09-15",
+          "totalCases": 911,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-09-16",
+          "totalCases": 914,
+          "activeCases": 143
+        },
+        {
+         "date": "2022-09-17",
+          "totalCases": 914,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-09-18",
+          "totalCases": 914,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-09-19",
+          "totalCases": 914,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-09-20",
+          "totalCases": 915,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-09-21",
+          "totalCases": 916,
+          "activeCases": 139
+        },
+
+        {
+         "date": "2022-09-22",
+          "totalCases": 921,
+          "activeCases": 141
+        },
+        {
+         "date": "2022-09-23",
+          "totalCases": 921,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-09-24",
+          "totalCases": 922,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-09-25",
+          "totalCases": 926,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-09-26",
+          "totalCases": 930,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-09-27",
+          "totalCases": 932,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-09-28",
+          "totalCases": 934,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-09-29",
+          "totalCases": 935,
+          "activeCases": 128
+        },
+        {
+         "date": "2022-09-30",
+          "totalCases": 937,
+          "activeCases": 133
+        },
+
+        {
+         "date": "2022-10-01",
+          "totalCases": 813,
+          "activeCases": 209
+        },
+        {
+         "date": "2022-10-02",
+          "totalCases": 816,
+          "activeCases": 192
+        },
+        {
+         "date": "2022-10-03",
+          "totalCases": 818,
+          "activeCases": 131
+        },
+        {
+         "date": "2022-10-04",
+          "totalCases": 829,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-10-05",
+          "totalCases": 888,
+          "activeCases": 155
+        },
+        {
+         "date": "2022-10-06",
+          "totalCases": 897,
+          "activeCases": 132
+        },
+        {
+         "date": "2022-10-07",
+          "totalCases": 898,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-10-08",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-10-09",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-10-10",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-10-11",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-10-12",
+          "totalCases": 902,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-10-13",
+          "totalCases": 906,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-10-14",
+          "totalCases": 908,
+          "activeCases": 130
+        },
+        {
+         "date": "2022-10-15",
+          "totalCases": 911,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-10-16",
+          "totalCases": 914,
+          "activeCases": 143
+        },
+        {
+         "date": "2022-10-17",
+          "totalCases": 914,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-10-18",
+          "totalCases": 914,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-10-19",
+          "totalCases": 914,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-10-20",
+          "totalCases": 915,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-10-21",
+          "totalCases": 916,
+          "activeCases": 139
+        },
+
+        {
+         "date": "2022-10-22",
+          "totalCases": 921,
+          "activeCases": 141
+        },
+        {
+         "date": "2022-10-23",
+          "totalCases": 921,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-10-24",
+          "totalCases": 922,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-10-25",
+          "totalCases": 926,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-10-26",
+          "totalCases": 930,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-10-27",
+          "totalCases": 932,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-10-28",
+          "totalCases": 934,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-10-29",
+          "totalCases": 935,
+          "activeCases": 128
+        },
+        {
+         "date": "2022-10-30",
+          "totalCases": 937,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-10-31",
+          "totalCases": 939,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-11-01",
+          "totalCases": 813,
+          "activeCases": 209
+        },
+        {
+         "date": "2022-11-02",
+          "totalCases": 816,
+          "activeCases": 192
+        },
+        {
+         "date": "2022-11-03",
+          "totalCases": 818,
+          "activeCases": 131
+        },
+        {
+         "date": "2022-11-04",
+          "totalCases": 829,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-11-05",
+          "totalCases": 888,
+          "activeCases": 155
+        },
+        {
+         "date": "2022-11-06",
+          "totalCases": 897,
+          "activeCases": 132
+        },
+        {
+         "date": "2022-11-07",
+          "totalCases": 898,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-11-08",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-11-09",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-11-10",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-11-11",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-11-12",
+          "totalCases": 902,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-11-13",
+          "totalCases": 906,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-11-14",
+          "totalCases": 908,
+          "activeCases": 130
+        },
+        {
+         "date": "2022-11-15",
+          "totalCases": 911,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-11-16",
+          "totalCases": 914,
+          "activeCases": 143
+        },
+        {
+         "date": "2022-11-17",
+          "totalCases": 914,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-11-18",
+          "totalCases": 914,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-11-19",
+          "totalCases": 914,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-11-20",
+          "totalCases": 915,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-11-21",
+          "totalCases": 916,
+          "activeCases": 139
+        },
+
+        {
+         "date": "2022-11-22",
+          "totalCases": 921,
+          "activeCases": 141
+        },
+        {
+         "date": "2022-11-23",
+          "totalCases": 921,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-11-24",
+          "totalCases": 922,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-11-25",
+          "totalCases": 926,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-11-26",
+          "totalCases": 930,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-11-27",
+          "totalCases": 932,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-11-28",
+          "totalCases": 934,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-11-29",
+          "totalCases": 935,
+          "activeCases": 128
+        },
+        {
+         "date": "2022-11-30",
+          "totalCases": 937,
+          "activeCases": 133
+        },
+
+        {
+         "date": "2022-12-01",
+          "totalCases": 813,
+          "activeCases": 209
+        },
+        {
+         "date": "2022-12-02",
+          "totalCases": 816,
+          "activeCases": 192
+        },
+        {
+         "date": "2022-12-03",
+          "totalCases": 818,
+          "activeCases": 131
+        },
+        {
+         "date": "2022-12-04",
+          "totalCases": 829,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-12-05",
+          "totalCases": 888,
+          "activeCases": 155
+        },
+        {
+         "date": "2022-12-06",
+          "totalCases": 897,
+          "activeCases": 132
+        },
+        {
+         "date": "2022-12-07",
+          "totalCases": 898,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-12-08",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-12-09",
+          "totalCases": 900,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-12-10",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-12-11",
+          "totalCases": 901,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-12-12",
+          "totalCases": 902,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-12-13",
+          "totalCases": 906,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-12-14",
+          "totalCases": 908,
+          "activeCases": 130
+        },
+        {
+         "date": "2022-12-15",
+          "totalCases": 911,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-12-16",
+          "totalCases": 914,
+          "activeCases": 143
+        },
+        {
+         "date": "2022-12-17",
+          "totalCases": 914,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-12-18",
+          "totalCases": 914,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-12-19",
+          "totalCases": 914,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-12-20",
+          "totalCases": 915,
+          "activeCases": 137
+        },
+        {
+         "date": "2022-12-21",
+          "totalCases": 916,
+          "activeCases": 139
+        },
+
+        {
+         "date": "2022-12-22",
+          "totalCases": 921,
+          "activeCases": 141
+        },
+        {
+         "date": "2022-12-23",
+          "totalCases": 921,
+          "activeCases": 140
+        },
+        {
+         "date": "2022-12-24",
+          "totalCases": 922,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-12-25",
+          "totalCases": 926,
+          "activeCases": 139
+        },
+        {
+         "date": "2022-12-26",
+          "totalCases": 930,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-12-27",
+          "totalCases": 932,
+          "activeCases": 136
+        },
+        {
+         "date": "2022-12-28",
+          "totalCases": 934,
+          "activeCases": 135
+        },
+        {
+         "date": "2022-12-29",
+          "totalCases": 935,
+          "activeCases": 128
+        },
+        {
+         "date": "2022-12-30",
+          "totalCases": 937,
+          "activeCases": 133
+        },
+        {
+         "date": "2022-12-31",
+          "totalCases": 939,
+          "activeCases": 139
+        },
+        {
+         "date": "2023-01-01",
+          "totalCases": 4236,
+          "activeCases": 23
+        },
+        {
+         "date": "2023-01-02",
+          "totalCases": 4244,
+          "activeCases": 32
+        },
+        {
+         "date": "2023-01-03",
+          "totalCases": 4278,
+          "activeCases": 31
+        },
+        {
+         "date": "2023-01-04",
+          "totalCases": 4311,
+          "activeCases": 36
+        },
+        {
+         "date": "2023-01-05",
+          "totalCases": 4388,
+          "activeCases": 35
+        },
+        {
+         "date": "2023-01-06",
+          "totalCases": 4397,
+          "activeCases": 32
+        },
+        {
+         "date": "2023-01-07",
+          "totalCases": 4398,
+          "activeCases": 33
+        },
+        {
+         "date": "2023-01-08",
+          "totalCases": 4400,
+          "activeCases": 35
+        },
+        {
+         "date": "2023-01-09",
+          "totalCases": 4400,
+          "activeCases": 35
+        },
+        {
+         "date": "2023-01-10",
+          "totalCases": 4401,
+          "activeCases": 36
+        },
+        {
+         "date": "2023-01-11",
+          "totalCases": 4401,
+          "activeCases": 36
+        },
+        {
+         "date": "2023-01-12",
+          "totalCases": 4402,
+          "activeCases": 37
+        },
+        {
+         "date": "2023-01-13",
+          "totalCases": 4406,
+          "activeCases": 39
+        },
+        {
+         "date": "2023-01-14",
+          "totalCases": 4408,
+          "activeCases": 30
+        },
+        {
+         "date": "2023-01-15",
+          "totalCases": 4411,
+          "activeCases": 40
+        },
+        {
+         "date": "2023-01-16",
+          "totalCases": 4414,
+          "activeCases": 43
+        },
+        {
+         "date": "2023-01-17",
+          "totalCases": 4414,
+          "activeCases": 40
+        },
+        {
+         "date": "2023-01-18",
+          "totalCases": 4414,
+          "activeCases": 39
+        },
+        {
+         "date": "2023-01-19",
+          "totalCases": 4414,
+          "activeCases": 36
+        },
+        {
+         "date": "2023-01-20",
+          "totalCases": 4415,
+          "activeCases": 37
+        },
+        {
+         "date": "2023-01-21",
+          "totalCases": 4416,
+          "activeCases": 39
+        },
+
+        {
+         "date": "2023-01-22",
+          "totalCases": 4421,
+          "activeCases": 41
+        },
+        {
+         "date": "2023-01-23",
+          "totalCases": 4421,
+          "activeCases": 40
+        },
+        {
+         "date": "2023-01-24",
+          "totalCases": 4422,
+          "activeCases": 36
+        },
+        {
+         "date": "2023-01-25",
+          "totalCases": 4426,
+          "activeCases": 39
+        },
+        {
+         "date": "2023-01-26",
+          "totalCases": 4430,
+          "activeCases": 3
+        },
+        {
+         "date": "2023-01-27",
+          "totalCases": 4432,
+          "activeCases": 36
+        },
+        {
+         "date": "2023-01-28",
+          "totalCases": 4434,
+          "activeCases": 35
+        },
+        {
+         "date": "2023-01-29",
+          "totalCases": 4435,
+          "activeCases": 28
+        },
+        {
+         "date": "2023-01-30",
+          "totalCases": 4437,
+          "activeCases": 33
+        },
+        {
+         "date": "2023-01-31",
+          "totalCases": 4439,
+          "activeCases": 39
+        },
+        {
+         "date": "2023-02-01",
+          "totalCases": 4236,
+          "activeCases": 23
+        },
+        {
+         "date": "2023-02-02",
+          "totalCases": 4244,
+          "activeCases": 32
+        },
+        {
+         "date": "2023-02-03",
+          "totalCases": 4278,
+          "activeCases": 31
+        },
+        {
+         "date": "2023-02-04",
+          "totalCases": 4311,
+          "activeCases": 36
+        },
+        {
+         "date": "2023-02-05",
+          "totalCases": 4388,
+          "activeCases": 35
+        },
+        {
+         "date": "2023-02-06",
+          "totalCases": 4397,
+          "activeCases": 32
+        },
+        {
+         "date": "2023-02-07",
+          "totalCases": 4398,
+          "activeCases": 33
+        },
+        {
+         "date": "2023-02-08",
+          "totalCases": 4400,
+          "activeCases": 35
+        },
+        {
+         "date": "2023-02-09",
+          "totalCases": 4400,
+          "activeCases": 35
+        },
+        {
+         "date": "2023-02-10",
+          "totalCases": 4401,
+          "activeCases": 36
+        },
+        {
+         "date": "2023-02-11",
+          "totalCases": 4401,
+          "activeCases": 36
+        },
+        {
+         "date": "2023-02-12",
+          "totalCases": 4402,
+          "activeCases": 37
+        },
+        {
+         "date": "2023-02-13",
+          "totalCases": 4406,
+          "activeCases": 39
+        },
+        {
+         "date": "2023-02-14",
+          "totalCases": 4408,
+          "activeCases": 30
+        },
+        {
+         "date": "2023-02-15",
+          "totalCases": 4411,
+          "activeCases": 40
+        },
+        {
+         "date": "2023-02-16",
+          "totalCases": 4414,
+          "activeCases": 43
+        },
+        {
+         "date": "2023-02-17",
+          "totalCases": 4414,
+          "activeCases": 40
+        },
+        {
+         "date": "2023-02-18",
+          "totalCases": 4414,
+          "activeCases": 39
+        },
+        {
+         "date": "2023-02-19",
+          "totalCases": 4414,
+          "activeCases": 36
+        },
+        {
+         "date": "2023-02-20",
+          "totalCases": 4415,
+          "activeCases": 37
+        },
+        {
+         "date": "2023-02-21",
+          "totalCases": 4416,
+          "activeCases": 39
+        },
+
+        {
+         "date": "2023-02-22",
+          "totalCases": 4421,
+          "activeCases": 41
+        },
+        {
+         "date": "2023-02-23",
+          "totalCases": 4421,
+          "activeCases": 40
+        },
+        {
+         "date": "2023-02-24",
+          "totalCases": 4422,
+          "activeCases": 36
+        },
+        {
+         "date": "2023-02-25",
+          "totalCases": 4426,
+          "activeCases": 39
+        },
+        {
+         "date": "2023-02-26",
+          "totalCases": 4430,
+          "activeCases": 33
+        },
+        {
+         "date": "2023-02-27",
+          "totalCases": 4432,
+          "activeCases": 36
+        },
+        {
+         "date": "2023-02-28",
+          "totalCases": 4434,
+          "activeCases": 35
+        },
+
+        {
+         "date": "2023-03-01",
+          "totalCases": 4236,
+          "activeCases": 12
+        },
+        {
+         "date": "2023-03-02",
+          "totalCases": 4244,
+          "activeCases": 14
+        },
+        {
+         "date": "2023-03-03",
+          "totalCases": 4278,
+          "activeCases": 11
+        },
+        {
+         "date": "2023-03-04",
+          "totalCases": 4311,
+          "activeCases": 16
+        },
+        {
+         "date": "2023-03-05",
+          "totalCases": 4388,
+          "activeCases": 13
+        },
+        {
+         "date": "2023-03-06",
+          "totalCases": 4397,
+          "activeCases": 12
+        },
+        {
+         "date": "2023-03-07",
+          "totalCases": 4398,
+          "activeCases": 13
+        },
+        {
+         "date": "2023-03-08",
+          "totalCases": 4400,
+          "activeCases": 15
+        },
+        {
+         "date": "2023-03-09",
+          "totalCases": 4400,
+          "activeCases": 15
+        },
+        {
+         "date": "2023-03-10",
+          "totalCases": 4401,
+          "activeCases": 16
+        },
+        {
+         "date": "2023-03-11",
+          "totalCases": 4401,
+          "activeCases": 16
+        },
+        {
+         "date": "2023-03-12",
+          "totalCases": 4402,
+          "activeCases": 17
+        },
+        {
+         "date": "2023-03-13",
+          "totalCases": 4406,
+          "activeCases": 19
+        },
+        {
+         "date": "2023-03-14",
+          "totalCases": 4408,
+          "activeCases": 10
+        },
+        {
+         "date": "2023-03-15",
+          "totalCases": 4411,
+          "activeCases": 10
+        },
+        {
+         "date": "2023-03-16",
+          "totalCases": 4414,
+          "activeCases": 13
+        },
+        {
+         "date": "2023-03-17",
+          "totalCases": 4414,
+          "activeCases": 10
+        },
+        {
+         "date": "2023-03-18",
+          "totalCases": 4414,
+          "activeCases": 19
+        },
+        {
+         "date": "2023-03-19",
+          "totalCases": 4414,
+          "activeCases": 16
+        },
+        {
+         "date": "2023-03-20",
+          "totalCases": 4415,
+          "activeCases": 17
+        },
+        {
+         "date": "2023-03-21",
+          "totalCases": 4416,
+          "activeCases": 19
+        },
+
+        {
+         "date": "2023-03-22",
+          "totalCases": 4421,
+          "activeCases": 11
+        },
+        {
+         "date": "2023-03-23",
+          "totalCases": 4421,
+          "activeCases": 10
+        },
+        {
+         "date": "2023-03-24",
+          "totalCases": 4422,
+          "activeCases": 16
+        },
+        {
+         "date": "2023-03-25",
+          "totalCases": 4426,
+          "activeCases": 19
+        },
+        {
+         "date": "2023-03-26",
+          "totalCases": 4430,
+          "activeCases": 13
+        },
+        {
+         "date": "2023-03-27",
+          "totalCases": 4432,
+          "activeCases": 16
+        },
+        {
+         "date": "2023-03-28",
+          "totalCases": 4434,
+          "activeCases": 15
+        },
+        {
+         "date": "2023-03-29",
+          "totalCases": 4435,
+          "activeCases": 18
+        },
+        {
+         "date": "2023-03-30",
+          "totalCases": 4437,
+          "activeCases": 13
+        },
+        {
+         "date": "2023-03-31",
+          "totalCases": 4439,
+          "activeCases": 19
         }
-    ]
-}
+      ]
+  }
+  
